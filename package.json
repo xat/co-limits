@@ -1,0 +1,37 @@
+{
+  "name": "co-limits",
+  "version": "0.0.1",
+  "description": "limits.js version that can be used with co",
+  "main": "co-limits.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "limits.js": "~0.1.4"
+  },
+  "devDependencies": {
+      "expect.js": "~0.3.1",
+      "co": "~3.0.5"
+  },
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xat/co-limits"
+  },
+  "keywords": [
+    "co",
+    "limits",
+    "limiting",
+    "rate-limiting",
+    "rate-limit",
+    "koa"
+  ],
+  "author": "Simon Kusterer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xat/co-limits/issues"
+  },
+  "homepage": "https://github.com/xat/co-limits"
+}
