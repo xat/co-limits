@@ -1,7 +1,7 @@
 ## co-limits
 
 co-limits extends [limits.js](https://github.com/xat/limits.js) with a 'co' method. With this you can
-you can use limits.js in an [co container](https://github.com/visionmedia/co).
+use limits.js in an [co container](https://github.com/visionmedia/co).
 
 ### Sample
 
