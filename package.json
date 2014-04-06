@@ -28,7 +28,11 @@
     "rate-limit",
     "koa"
   ],
-  "author": "Simon Kusterer",
+  "author": {
+      "name": "Simon Kusterer",
+      "email": "simon@sope.io",
+      "url": "http://sope.io"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xat/co-limits/issues"
