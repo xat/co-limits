@@ -1,6 +1,6 @@
 {
   "name": "co-limits",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "limits.js version that can be used with co",
   "main": "co-limits.js",
   "directories": {
